@@ -1,0 +1,32 @@
+{
+ "name": "Kdar Khien",
+ "slug": "KdarKhien",
+ "native": "ក្ដារខៀន",
+ "version": "0.100",
+ "cat": "handwritten",
+ "title": "Chalkboard",
+ "insp": "chalk menu boards, Mali",
+ "bases": {
+  "lao": "lao",
+  "thai": "thai",
+  "khmer": "khmer",
+  "latin": "latin"
+ },
+ "recipe": [
+  {
+   "op": "wobble",
+   "amp": 5,
+   "wave": 260
+  },
+  {
+   "op": "nib",
+   "shape": "round",
+   "w": 62
+  },
+  {
+   "op": "rough",
+   "amp": 5,
+   "step": 9
+  }
+ ]
+}
